@@ -17,7 +17,7 @@
 		</Key>
 		<Key ID="STR_ESS_BLOCKED">
 			<English>Note: some spawns were blocked due to a body of yours within %1m</English>
-			<French>Note: certains engins ont été bloqués à cause d'un corps à vous a %1m</French>
+			<French>Note: Certaines positions ont été bloqués à cause d'un corps a %1m</French>
 			<German>Anmerkung: Einige Spawnpunkte wurden wegen einer Leiche von dir im Umkreis von %1m blockiert</German>
 			<Russian>Некоторые точки спавна заблокированы, т.к. они в радиусе %1м от вашего тела.</Russian>
 			<Spanish>algunos spawns fueron bloqueados por que tienes un cuerpo a %1mts</Spanish>
@@ -141,7 +141,7 @@
 			<English>Successfully maintained vehicles in your virtual garage</English>
 			<German>Fahrzeuge in deiner virtuellen Garage erfolgreich gewartet</German>
 			<Russian>Техника успешно обслужена</Russian>
-			<French>Véhicules entretenus avec succès dans votre garage virtuel</French>
+			<French>Véhicules stocker dans votre garage virtuel</French>
 			<Spanish>Vehículos con éxito en su garaje virtual</Spanish>
 		</Key>
 		<Key ID="STR_CL_VG_MAINTAININTERVAL">
